@@ -1,0 +1,9 @@
+{
+  "accessKeyId": "REPLACE",
+  "secretAccessKey": "REPLACE",
+  "region": "eu-west-1",
+  "tableName":"testtable",
+  "outputfile":"example_1.csv",
+  "headers":"true",
+  "nullstring":"N/A",
+}
